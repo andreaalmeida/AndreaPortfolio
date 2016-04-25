@@ -97,7 +97,8 @@
 			my messy apartment, my boyfriend eating lunch, and my cat doing something cat-like.  I like them, 
 			because they show <em>my</em> life, not the idealized version of it that I post on Facebook.  It’s 
 			personal, which is uncomfortable, but vulnerability is a pretty cool thing because it’s so raw 
-			and genuine.
+			and genuines.
+
 		</p>
 	</div>
 </div>
