@@ -21,25 +21,30 @@
 		<div class="project__purple__container">
 
 			<h1 class="project__purple__container__h1">XC Maps</h1>
-			<p>A proof of concept for a web app that enables runners, coaches, and spectators to view 
+			<p>The proof of concept for a web app that enables runners, coaches, and spectators to view 
 				and interact with college cross country courses.</p>
 		</div>
 
 	</div>
 
 <div class="process">
+
+	<div class="planning">
+		<h1 class="planningh">Planning<h1>
+	</div>
+
 	<ul class="process__blocks">
 		<li class="process__blocks__one">
 			<img src="images/xcmaps/xcmaps_sketch_1@2x.jpg" width="100%">
-			<p class="process__blocks__one__title">Cart and filter ideas</p>
+			<p class="process__blocks__one__title">Mobile and desktop views</p>
 		</li>
 		<li class="process__blocks__two">
 			<img src="images/xcmaps/xcmaps_sketch_2@2x.jpg" width="100%">
-			<p class="process__blocks__two__title">Purchase flow</p>
+			<p class="process__blocks__two__title">Map functionality planning</p>
 		</li>
 		<li class="process__blocks__three">
 			<img src="images/xcmaps/xcmaps_sketch_3@2x.jpg" width="100%">
-			<p class="process__blocks__three__title">Use cases</p>
+			<p class="process__blocks__three__title">Logo design</p>
 		</li>
 	</ul>
 </div>
@@ -47,59 +52,72 @@
 
 <div class="description">
 	<div class="description__container">
+
+		<div class="planning">
+			<h1 class="planningh">Process<h1>
+		</div>
+
 		<h2>My role</h2>
 		<p>Producer and designer</p>
 
 		<h2>The inspiration behind this project</h2>
-		<p>I've been a runner since I was twelve and have competed in hundreds of cross country races. Before a meet my 
-			coach would hand out a map of the course and point out any tricky spots along the way. Most of maps were hand-drawn 
-			or crudely outlined on a static satellite image of the area. Unless we arrived at the course a day early to run it, 
-			I really didn’t have a great understanding about where it went, the hills, bends, etc. Sometimes maps were posted 
-			on a university's website for spectators to see as well, but that was pretty rare. My parents would usually call 
-			me the day before a race to verify where the start and finish lines were and to get directions to the course. 
-			Cross-country races are typically run on a golf course, in an open field, or through a combination of fields 
-			and woods. It's almost never a straight out and back, meaning that it can be pretty easy for spectators to get 
-			turned around trying to find different mile markers along the course. I wanted to create an interactive map to make 
-			spectators' lives a little easier and allow runners to get to know a course before even stepping foot on it.
-
+		<p>I've competed in hundreds of cross country races from the time I was in middle school all the way through college. 
+			Before a meet, my coach would hand out a map of the course and point out any tricky spots along the way. Most 
+			of the maps were hand-drawn or crudely outlined on a static satellite image of the area.  They were difficult to 
+			read and did little to prepare runners for what to expect on the course (hills, turns, etc.)  My parents usually 
+			called me the day before a race to verify where the start and finish lines were and get directions to the course.  
+			Cross country races are long and confusing for spectators who are trying to find specific mile markers on the course.  
+			I wanted to create an interactive map to make spectators’ lives easier and allow runners to become familiar with a 
+			course before even stepping foot on it.
 		</p>
 
 		<h2>Map functionality</h2>
 		<h3>For spectators</h3>
-		<p>Spectators can use the map on their phones to find their current location on the course and point them towards
-			a mile marker or start and finish lines.  Before a race, they can find relevant meet information like driving directions, where to park,
-			race schedules and bathroom locations.</p>
+		<p>Spectators can use the map on their phones to find their current location on the course. They can also use it to find 
+			the start and finish line, as well as any of the other mile marker on the course. Before a race, spectators can use 
+			the map to find relevant meet information like driving directions, where to park, race schedules, and bathroom locations.
+		</p>
 
 		<h3>For runners and coaches</h3>
-		<p>Runners and coaches can use the map to see more detailed information about the course.
-		The map shows elevation along the course, allows runners to virtually run the course with the course animation feature, 
-		shows both satellite and map views and provides street view in select locations so that runners can virtually tour the course.
+		<p>Runners and coaches can use the map to see more detailed information about the course. The map shows elevation along the 
+			course, allows runners to virtually run the course with the course animation feature, shows both satellite and map views, 
+			and provides a street view in select locations so that runners can virtually tour the course.
 		</p>
 
 		<h2>The technology</h2>
-		<p>I built this web app with html, css, javascript, Google Maps API, Facebook API, Instagram API and created
-		a separate .json file to store individual map data points - allowing for easy addition of future courses.
+		<p>I built this web app with html, css, javascript, Google Maps API, Facebook API, and Instagram API. I also created a separate 
+			.json file to store individual map data points - making it easy to add more courses in the future.
 		</p>
 
 		<h2>The results</h2>
-		<p>The result is an interactive map where runners, spectators and coaches can learn more about a cross country course
-			and any relevant meet infomation as well as communicate with fellow runners, spectators and coaches.  
+		<p>The result is an interactive map where runners, spectators, and coaches can learn more about a cross country course and 
+			share relevant information with one another. 
 		</p>
 
 		
+	</div>
 
+	</div>
+
+	<div class="process">
+
+	<div class="planning">
+		<h1 class="planningh">Results<h1>
 	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/xcmaps/xcmaps_result_1@2x.jpg" width="100%">
+		<p class="description__container__title">Elon University Men's course</p>
 	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/xcmaps/xcmaps_result_2@2x.jpg" width="100%">
+		<p class="description__container__title">Logo design</p>
 	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/xcmaps/xcmaps_result_3@2x.jpg" width="100%">
+		<p class="description__container__title">Mobile and desktop views</p>
 	</div>
 
 	<div class="description__container">

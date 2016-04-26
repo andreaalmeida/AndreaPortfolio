@@ -1111,6 +1111,15 @@ iframe{
 	margin: 0 auto;
 	padding: 0px;
 	margin-top: 0px;
+
+	@include bp(medium) {
+		width: 630px;
+				
+	}
+
+	@include bp(small) {
+		width: 320px;
+	}
 }
 
 .planningh{

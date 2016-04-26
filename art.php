@@ -36,16 +36,16 @@
 
 	<ul class="process__blocks">
 		<li class="process__blocks__one">
-			<img src="images/art/art_sketch_1@2x.jpg" width="100%">
-			<p class="process__blocks__one__title">Painting of Fazenda</p>
+			<img src="images/art/art_sketch_8@2x.jpg" width="100%">
+			<p class="process__blocks__one__title">My indoor space</p>
 		</li>
 		<li class="process__blocks__two">
 			<img src="images/art/art_sketch_9@2x.jpg" width="100%">
-			<p class="process__blocks__two__title">Summer Flowers</p>
+			<p class="process__blocks__two__title">My outdoor studio</p>
 		</li>
 		<li class="process__blocks__three">
-			<img src="images/art/art_sketch_8@2x.jpg" width="100%">
-			<p class="process__blocks__three__title">Street at Night 1</p>
+			<img src="images/art/art_sketch_1@2x.jpg" width="100%">
+			<p class="process__blocks__three__title">Another outdoor studio</p>
 		</li>
 	</ul>
 
@@ -80,24 +80,21 @@
 		<p>Artist</p>
 
 		<h2>Why I love to make art</h2>
-		<p>It’s the best way I know to express what I see and feel.  It’s therapeutic and freeing, because it 
-			enables me to get what is in my head out and onto paper.  I am in control—I get to make the 
-			decisions, without being influenced by others.  It’s a solo activity, which allows me to connect 
-			with myself and learn more about who I am. I like how moment-to-moment it is—I can change the 
-			direction of my composition anytime, without worrying that I have to stick to a plan.  To make 
-			good art, I have to be present—to observe the things around me, and myself, and be conscious of 
-			what I’m putting on the paper or canvas.  This teaches me to shut off (or a least calm down) my 
-			wandering mind.
+		<p>It’s the best way I know to express what I see and feel.  It’s therapeutic and freeing because it enables me to 
+			get what is in my head out and onto paper.  I am in control—I get to make the decisions without being influenced 
+			by others.  It’s a solo activity, which allows me to connect with myself and learn more about who I am. I like how 
+			moment-to-moment it is—I can change the direction of my composition anytime, without worrying that I have to stick 
+			to a plan.  To make good art, I have to be present—to observe myself, the things around me, and be conscious of 
+			what I’m putting on the paper or canvas.  This teaches me to shut off (or a least calm down) my wandering mind.
 		</p>
 
 		<h2>Recent works</h2>
-		<p>I have been experimenting with small watercolor paintings.  Most of them end up being scenes 
-			from my day—moments when I stopped thinking, even if just for a second, to observe where I was 
-			and how I felt.  The compositions are colorful, but the content is plain. They're snapshots of 
-			my messy apartment, my boyfriend eating lunch, and my cat doing something cat-like.  I like them, 
-			because they show <em>my</em> life, not the idealized version of it that I post on Facebook.  It’s 
-			personal, which is uncomfortable, but vulnerability is a pretty cool thing because it’s so raw 
-			and genuines.
+		<p>Recently, I have been experimenting with small watercolor paintings.  Most of them end up being scenes from my 
+			day—moments when I stopped thinking, even if just for a second, to observe where I was and how I felt.  The 
+			compositions are colorful, but the content is plain. They're snapshots of my messy apartment, my boyfriend 
+			eating lunch, and my cat doing something cat-like.  I like them, because they show <em>my</em> life, not the idealized 
+			version of it that I post on Facebook.  It’s personal, which is uncomfortable, but vulnerability is a pretty 
+			cool thing because it’s so raw and genuine.
 
 		</p>
 	</div>
@@ -110,7 +107,7 @@
 <div class="process">
 
 	<div class="planning">
-		<h1 class="planningh">Finished work<h1>
+		<h1 class="planningh">My creations<h1>
 	</div>	
 
 	<div class="description__container">

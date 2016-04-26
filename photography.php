@@ -22,7 +22,7 @@
 		<div class="project__purple__container">
 
 			<h1 class="project__purple__container__h1">Photography</h1>
-			<p>Some photos I’ve taken</p>
+			<p>Moments I've captured</p>
 		</div>
 
 	</div>
@@ -30,7 +30,7 @@
 <div class="process">
 
 <div class="planning">
-	<h1 class="planningh">Planning<h1>
+	<h1 class="planningh">Setting up<h1>
 </div>
 
 	<ul class="process__blocks">
@@ -57,26 +57,25 @@
 	<div class="description__container">
 
 		<div class="planning">
-			<h1 class="planningh">Process<h1>
+			<h1 class="planningh">About my work<h1>
 		</div>
 
 		<h2>My role</h2>
 		<p>Photographer</p>
 
 		<h2>Why I do it</h2>
-		<p>Taking photos is one of my favorite ways to explore the world.  It’s an opportunity to look at 
-			something (even something familiar) in a new way.  The camera constrains what I see and forces 
-			me to look at one small area at a time.  This lets me focus on the little scenes that often go 
-			unnoticed, because my attention is usually on something much larger.  Then I get to choose which 
-			scene I want to capture depending on the story I want to tell.
+		<p>Taking photos is one of my favorite ways to explore the world.  It’s an opportunity to look at something 
+			(even something familiar) in a new way.  The camera constrains what I see and forces me to look at one 
+			small area at a time.  This lets me focus on the little scenes that often go unnoticed because my attention 
+			is usually on something much larger.  The whole process gives me a broader perspective on life and always 
+			leaves me feeling awestruck by ordinary things that I usually take for granted.
 		</p>
 
 		<h2>How I use them</h2>
-		<p>I use photos in a lot of my work, and I use my own photos when it’s possible (which is like 
-			99% of the time). At Fooda I became the in-house photographer for a while and quickly learned 
-			how to plate food, set up lighting, and take close-up shots—something I really had no idea how 
-			to do. Even after lots of reps my photos aren’t perfect, but they get the job done and tell a 
-			story.
+		<p>I use my own photos in a lot of my work.  At Fooda, I became the in-house photographer and quickly learned how 
+			to plate food, set up lighting, and take close-up shots—something I had no idea how to do initially.  In my 
+			personal life, I use photography as a means of self-expression.  In my professional life, I use photography 
+			to connect with clients in a more visceral way.
 		</p>
 
 	</div>
@@ -86,7 +85,7 @@
 <div class="process">
 
 	<div class="planning">
-		<h1 class="planningh">Results<h1>
+		<h1 class="planningh">My work<h1>
 	</div>
 
 	<div class="description__container">

@@ -108,19 +108,19 @@
 
 	<div class="description__container">
 		<img class="result" src="images/popup/popup_result_1@2x.jpg" width="100%">
-		<p class="description__container__title">Popup site</p>
+		<p class="description__container__title">Mobile and desktop views</p>
 
 	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/popup/popup_result_3@2x.jpg" width="100%">
-		<p class="description__container__title">Fooda marketing</p>
+		<p class="description__container__title">Map functionality planning</p>
 
 	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/popup/popup_result_2@2x.jpg" width="100%">
-		<p class="description__container__title">Mall banners</p>
+		<p class="description__container__title">Logo design</p>
 
 	</div>
 

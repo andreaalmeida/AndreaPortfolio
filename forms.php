@@ -22,12 +22,17 @@
 		<div class="project__purple__container">
 
 			<h1 class="project__purple__container__h1">Fooda forms</h1>
-			<p>A style guide documenting forms, their styles, and when and where to use them</p>
+			<p>A style guide that documents forms, their styles, and when and where to use them</p>
 		</div>
 
 	</div>
 
 <div class="process">
+
+	<div class="planning">
+		<h1 class="planningh">Planning<h1>
+	</div>
+
 	<ul class="process__blocks">
 		<li class="process__blocks__one">
 			<img src="images/forms/forms_sketch_1@2x.jpg" width="100%">
@@ -35,7 +40,7 @@
 		</li>
 		<li class="process__blocks__two">
 			<img src="images/forms/forms_sketch_2@2x.jpg" width="100%">
-			<p class="process__blocks__two__title">Messging and labels</p>
+			<p class="process__blocks__two__title">Messages and labels</p>
 		</li>
 		<li class="process__blocks__three">
 			<img src="images/forms/forms_sketch_3@2x.jpg" width="100%">
@@ -48,6 +53,11 @@
 
 <div class="description">
 	<div class="description__container">
+
+		<div class="planning">
+			<h1 class="planningh">Process<h1>
+		</div>
+
 		<h2>My role</h2>
 		<p>Design Lead</p>
 
@@ -62,66 +72,71 @@
 		a form within an application.
 		</p>
 	</div>
+</div>
 
+<div class="process">
 
+	<div class="planning">
+		<h1 class="planningh">Results<h1>
+	</div>
 
 		<div class="description__container">
 		<img class="result" src="images/forms/forms_result_7@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">An introduction to forms</p>
- -->	</div>
+		<p class="description__container__title">An introduction to forms</p>
+	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_6@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">How to create form titles</p>
- -->	</div>
+		<p class="description__container__title">How to create form titles</p>
+	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_3@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Runners - Screen Print on Tissue Paper</p>
- -->	</div>
+		<p class="description__container__title">Form validation and messaging</p>
+	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_4@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Form validation and messaging</p>
- -->	</div>
+		<p class="description__container__title">Labels on forms</p>
+	</div>
 
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_8@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Runners - Screen Print on Tissue Paper</p>
- -->	</div>
+		<p class="description__container__title">Input field guidelines</p>
+	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_11@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Runners - Screen Print on Tissue Paper</p>
- -->	</div>
+		<p class="description__container__title">Description of actions</p>
+	</div>
 
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_5@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Cow in Field - Acrylic on Canvas</p>
- -->
+		<p class="description__container__title">Input field, label and button styles</p>
+
 	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_12@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Runners - Screen Print on Tissue Paper</p>
- -->	</div>
+		<p class="description__container__title">Button styles</p>
+	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_15@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Runners - Screen Print on Tissue Paper</p>
- -->	</div>
+		<p class="description__container__title">Large input field with button style</p>
+	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_14@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Runners - Screen Print on Tissue Paper</p>
- -->	</div>
+		<p class="description__container__title">Message styles</p>
+	</div>
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_2@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Fazenda Santa Terezinha - Acrylic on Canvas</p>
- -->	</div>
+		<p class="description__container__title">Error handling</p>
+	</div>
 
 	
 
@@ -132,8 +147,8 @@
 
 	<div class="description__container">
 		<img class="result" src="images/forms/forms_result_10@2x.jpg" width="100%">
-<!-- 		<p class="description__container__title">Runners - Screen Print on Tissue Paper</p>
- -->	</div>
+		<p class="description__container__title">Radio buttons and dropdown styles</p>
+	</div>
 
 
 	
