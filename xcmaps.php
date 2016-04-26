@@ -91,7 +91,8 @@
 
 		<h2>The results</h2>
 		<p>The result is an interactive map where runners, spectators, and coaches can learn more about a cross country course and 
-			share relevant information with one another. 
+			share relevant information with one another.   
+
 		</p>
 
 		
