@@ -334,9 +334,10 @@ footer{
 		line-height: 2.0em;
 	}
 
-	a{
+	a {
 		margin-top: 0px;
 		margin-bottom: 0px;
+		line-height: 2.0em;
 		color: $color-background;
 		text-decoration: none;
 
@@ -345,12 +346,8 @@ footer{
 		}
 	}
 
-	p{
-		margin-top: 0px;
-		margin-bottom: 0px;
-		color: $color-background;
-		text-decoration: none;
-	}
+
+
 }
 
 .footer__wrapper{
@@ -374,12 +371,14 @@ footer{
 
 	p{
 		color: #9fa1a3;
+
+		@include bp(small){
+			text-align: center;	
+
+		}
 	}
 
-	@include bp(small){
-		text-align: center;	
-		padding-top: 5px;
-	}
+
 }
 
 //--------------- FOOTER --------------//

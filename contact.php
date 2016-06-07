@@ -26,12 +26,12 @@ $current = 'contact';
 		</div>
 		<div class="description">
 			<div class="description__container--contact">
-				<h2>Andrea Pereira de Almeida</h2>
+				<h3>Andrea Pereira de Almeida</h3>
 				<p>User Experience Designer</br>Chicago, IL</p>
-				<h2>Email</h2>
+				<h3>Email</h3>
 				<p><a class="mail" href="mailto:andreaalmeida@me.com?Subject=Hey%20Andrea" target="_top">andreaalmeida@me.com</a>
 				</p>
-				<h2>LinkedIn</h2>
+				<h3>LinkedIn</h3>
 				<p><a class="mail" href="http://www.linkedin.com/in/andreapalmeida" target="_blank">linkedin.com/in/andreapalmeida</a>
 				</p>
 			</div>

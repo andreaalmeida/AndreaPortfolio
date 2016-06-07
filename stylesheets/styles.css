@@ -352,15 +352,11 @@ footer {
   footer a {
     margin-top: 0px;
     margin-bottom: 0px;
+    line-height: 2.0em;
     color: #f7f7f6;
     text-decoration: none; }
     footer a:hover {
       text-decoration: underline; }
-  footer p {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    color: #f7f7f6;
-    text-decoration: none; }
 
 .footer__wrapper {
   width: 960px;
@@ -379,10 +375,9 @@ footer {
   padding-bottom: 50px; }
   .copyright p {
     color: #9fa1a3; }
-  @media only screen and (max-width: 629px) {
-    .copyright {
-      text-align: center;
-      padding-top: 5px; } }
+    @media only screen and (max-width: 629px) {
+      .copyright p {
+        text-align: center; } }
 
 .preFooter {
   width: 100%;
