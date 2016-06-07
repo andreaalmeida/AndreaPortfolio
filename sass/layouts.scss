@@ -1,0 +1,195 @@
+//--------------- CONTACT PAGE --------------//
+
+.blocks--contact{
+/*	//border: 1px solid red;
+*/	margin-top: 223px;
+}
+
+//--------------- CONTACT PAGE --------------//
+
+
+
+
+
+//--------------- INDEX PAGE --------------//
+
+.blocks--index{
+	width: 100%;
+	padding-top:75px;
+	background-color: $color-background;
+	padding-bottom:60px;
+	margin-top: 223px;
+
+	@include bp(medium) {
+		margin-top: 205px;
+	}
+
+	@include bp(small) {
+		margin-top: 223px;
+	}
+}
+
+//--------------- INDEX PAGE --------------//
+
+
+//--------------- ABOUT PAGE --------------//
+
+.blocks--about{
+	@extend .blocks--index;
+	padding-bottom:15px;
+	//z-index: 99 !important;
+
+	@include bp(small) {
+		margin-top: 205px;
+	}
+}
+
+//--------------- ABOUT PAGE --------------//
+
+
+//--------------- 3 COLUMN GRID --------------//
+
+.blocks{
+	width: 100%;
+	padding-bottom:15px;
+	border-bottom: 1px solid white;
+	border-top: 1px solid $color-background;
+	margin-top: 0px;
+	background-color: $color-background;
+	padding-top: 0px;
+  	padding: 0px !important;
+  	z-index: 99 !important;
+
+	&__row{
+		width: 960px;
+		margin: 0 auto;
+		padding: 0px;
+		margin-bottom: 60px;
+
+		@include bp(medium) {
+				width: 630px;
+		}
+
+		@include bp(small) {
+				width: 320px;
+		}
+
+		&__one{
+			height: 300px;
+			width: 300px;
+			display: inline-block;
+			margin-right: 24px;
+			margin-left:0px;
+			border: 1px solid $color-border;
+			@extend %radius;
+
+			img{
+				@extend %radius;
+			}
+
+			@include bp(medium) {
+				width: 197px;
+				height: 197px;
+				margin-right: 16px;
+			}
+
+			@include bp(small) {
+			height: 320px;
+			width: 320px;
+			}
+		}
+
+		&__two{
+			@extend .blocks__row__one;
+
+			@include bp(small) {
+				margin-top: 40px;
+			}
+		}
+
+		&__three{
+			@extend .blocks__row__one;
+			margin-right: 0px;
+
+			@include bp(medium) {
+				margin-right: 0px;
+			}
+
+			@include bp(small) {
+				margin-top: 40px;
+			}
+		}
+
+		&__large{
+			height: 409px;
+			width: 960px;
+			display: inline-block;
+			border: 1px solid $color-border;
+			@extend %radius;
+
+			img{
+				@extend %radius;
+			}
+
+			/*&__title{
+				text-align: center;
+				margin-top:7px;
+				font-size: 1.0em;
+				font-weight: $font-weight-bold;
+			}*/
+
+			@include bp(medium) {
+				width: 630px;
+				height: 269px;
+			}
+
+			@include bp(small) {
+			height: 137px;
+			width: 320px;
+			margin-top: 40px;
+			}
+		}
+
+		&__large2{
+			height: 527px;
+			width: 960px;
+			display: inline-block;
+			
+			@extend %radius;
+
+			img{
+				@extend %radius;
+				border: 1px solid $color-border;
+			}
+
+
+			&__title{
+				text-align: center;
+				margin-top:7px;
+				font-size: 1.0em;
+				font-weight: $font-weight-bold;
+			}
+
+			@include bp(medium) {
+				width: 630px;
+				height: 346px;
+			}
+
+			@include bp(small) {
+			height: 176px;
+			width: 320px;
+			margin-top: 40px;
+			}
+		}
+	}
+}
+
+//--------------- 3 COLUMN GRID --------------//
+
+
+
+.process{
+	background-color: $color-background;
+}
+
+

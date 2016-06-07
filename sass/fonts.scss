@@ -1,0 +1,139 @@
+a{
+	color: $color-text;
+	text-decoration: none;
+
+	&:hover{
+		opacity: .6;
+	}
+}
+
+
+
+//--------------- ACTIVE PAGE --------------//
+
+.current{
+	text-decoration: underline;
+	display: inline;
+	font-weight: $font-weight-bold;
+}
+
+
+//--------------- ACTIVE PAGE --------------//
+
+
+h1.h1_gray{
+	text-align: center;
+	color: $color-text;
+	margin-top:0px;
+	font-size: 4.0em;
+	font-weight: $font-weight-thin;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	margin-top: 60px;
+	line-height: 1.0em;
+
+	@include bp(small) {
+		font-size: 2.5em;
+		padding-top: 5px;
+	}
+}
+
+h1.h1_white{
+	@extend .h1_gray;
+	color: white;
+	margin-top: 5px;
+
+}
+
+h2.categories{
+	font-size: 2.2em;
+	text-align: center;
+	font-weight: $font-weight-thin !important;
+	color: $color-text;
+	padding-bottom: 25px;
+	padding-top:55px;
+	margin-bottom:0px;
+	margin-top: 0px;
+}
+
+h3{
+	margin-bottom:0px;
+	margin-top: 0px;
+	font-weight: $font-weight-bold;
+	font-size: 1.5em;
+}
+
+h4{
+	margin-bottom:0px;
+	font-weight: $font-weight-bold;
+	color: #7c73b3;
+	margin-top: 7px;
+	font-size: 1.1em;
+}
+
+p{
+	line-height: 1.7em;
+	text-align: left;
+	font-size: 1.1em;
+	padding-bottom: 20px;
+	padding-top:0px;
+	margin-top:5px;
+	font-weight: $font-weight-regular;
+}
+
+p.p_gray{
+	line-height: 1.7em;
+	text-align: center;
+	font-size: 1.1em;
+	font-weight: $font-weight-bold;
+	color: $color-text;
+	margin-top: 10px;
+	margin-bottom:26px;
+}
+
+p.p_white{
+	@extend .p_gray;
+	color: white;
+}
+
+.caption{
+	text-align: center;
+	margin-top:7px;
+	font-size: 1.0em;
+	font-weight: $font-weight-bold;	
+}
+
+
+// --------------- LINKS ----------------- //
+.clickableButton{
+	margin: 0 auto !important;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: $color-orange;
+	color: #ffffff;
+	@extend %radius;
+	font-weight: $font-weight-bold;
+	margin-bottom: 0px;
+	text-align: center !important;
+}
+
+.mail{
+	color: $color-orange;
+	font-weight: $font-weight-bold;
+
+	&:hover{
+		text-decoration: underline;
+	}
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+*, *:before, *:after {
+  	box-sizing: inherit;
+  	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+html {
+	box-sizing: border-box;
+	font-size: 100%;
+	word-wrap: break-word;
+	color: $color-text;
+	overflow-x: hidden;
+	max-width: 100%;
+}
+
+body {
+	margin: 0px;
+	overflow-x: hidden;
+	max-width: 100%;
+	min-width: 300px;
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: $color-background;
+}
+
+ol, ul, li {
+	list-style: none;
+}
+
+iframe{
+	@extend %radius;
+}
