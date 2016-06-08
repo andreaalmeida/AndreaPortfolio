@@ -78,7 +78,7 @@
 				</p>
 				<h3>The results</h3>
 				<p>After just 5 days we had a testable prototype—a printed book that explained what Fooda does and its 
-					value for potential clients.  The week following the sprint, I edited the the book, organized a 
+					value for potential clients.  The week following the sprint, I edited the book, organized a 
 					photoshoot, shot and edited photos, and put all the pieces together to create the final version 
 					of the book.  I was able to get the finished product out the door in 10 days.</p>
 			</div>

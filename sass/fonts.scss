@@ -89,6 +89,12 @@ p.p_gray{
 	color: $color-text;
 	margin-top: 10px;
 	margin-bottom:26px;
+	
+	@include bp(small){
+		padding-left: 25px;
+		padding-right: 25px;
+		padding-bottom: 0px;
+	}
 }
 
 p.p_white{

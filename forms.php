@@ -18,33 +18,31 @@
 				<p class="p_gray">Fooda's brand in code</p>
 			</div>
 		</div>
-		<div class="process">
-			<ul class="process__blocks">
-				<li class="process__blocks__one">
+		<div class="blocks">
+			<ul class="blocks__row">
+				<li class="blocks__row__one">
 					<img src="images/forms/forms_sketch_1@2x.jpg" width="100%">
-					<p class="process__blocks__one__title">Form components</p>
+					<p class="caption">Form components</p>
 				</li>
-				<li class="process__blocks__two">
+				<li class="blocks__row__two">
 					<img src="images/forms/forms_sketch_2@2x.jpg" width="100%">
-					<p class="process__blocks__two__title">Messages and labels</p>
+					<p class="caption">Messages and labels</p>
 				</li>
-				<li class="process__blocks__three">
+				<li class="blocks__row__three">
 					<img src="images/forms/forms_sketch_3@2x.jpg" width="100%">
-					<p class="process__blocks__three__title">Purpose</p>
+					<p class="caption">Purpose</p>
 				</li>
 			</ul>
 		</div>
 		<div class="description">
-			<div class="container">
-				<div class="planning">
+			<div class="description__container">
+				<div class="description__container__title">
 					<h2 class="categories">Process<h2>
 				</div>
-				<h2>My role</h2>
+				<h3>My role</h3>
 				<p>Project Lead</p>
-
-				<h2>The need for a style guide</h2>
-				<p>
-				While at Fooda, I worked with one other designer and six developers. Even with a small team, we wasted time asking 
+				<h3>The need for a style guide</h2>
+				<p>While at Fooda, I worked with one other designer and six developers. Even with a small team, we wasted time asking 
 				each other questions like, “Hey, what is the button supposed to look like?” or “Is this text supposed to be centered?”.  
 				Most companies with great design teams have live style guides; they serve as a central location to store UI components.  
 				This makes it easy for designers and developers to find, edit, and copy/paste UI code snippets into their projects.  I 
@@ -54,21 +52,21 @@
 				</p>
 			</div>
 		</div>
-		<div class="process">
-			<div class="planning">
+		<div class="results">
+			<div class="results__container__title">
 				<h2 class="categories">Results<h2>
 			</div>
-				<div class="container">
+			<div class="results__container">
 				<img class="result" src="images/forms/forms_result_16@2x.jpg" width="100%">
-				<p class="container__title">Colors</p>
+				<p class="caption">Colors</p>
 			</div>
-			<div class="container">
+			<div class="results__container">
 				<img class="result" src="images/forms/forms_result_17@2x.jpg" width="100%">
-				<p class="container__title">Forms</p>
+				<p class="caption">Forms</p>
 			</div>
-			<div class="container">
+			<div class="results__container">
 				<img class="result" src="images/forms/forms_result_2@2x.jpg" width="100%">
-				<p class="container__title">Error handling</p>
+				<p class="caption">Error handling</p>
 			</div>
 			<div class="projectNav">
 				<a class="back" href="terraba.php">&#8592; Previous project</a>

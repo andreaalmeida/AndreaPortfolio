@@ -53,7 +53,7 @@
 				<h3>Map functionality</h3>
 				<h4>For spectators</h4>
 				<p>Spectators can use the map on their phones to find their current location on the course. They can also use it to find 
-					the start and finish line, as well as any of the other mile marker on the course. Before a race, spectators can use 
+					the start and finish line, as well as mile markers on the course. Before a race, spectators can use 
 					the map to find relevant meet information like driving directions, where to park, race schedules, and bathroom locations.
 				</p>
 				<h4>For runners and coaches</h4>

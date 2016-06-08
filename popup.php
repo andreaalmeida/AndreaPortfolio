@@ -50,7 +50,7 @@
 		</div>
 		<div class="description">
 			<div class="description__container">
-				<div class="description__container__titile">
+				<div class="description__container__title">
 					<h2 class="categories">Process<h2>
 				</div>
 				<h3>My role</h3>
@@ -95,15 +95,15 @@
 			</div>
 			<div class="results__container">
 				<img class="result" src="images/popup/popup_result_1@2x.jpg" width="100%">
-				<p class="caption">Mobile and desktop views</p>
+				<p class="caption">Designed Popup space</p>
 			</div>
 			<div class="results__container">
 				<img class="result" src="images/popup/popup_result_3@2x.jpg" width="100%">
-				<p class="caption">Map functionality planning</p>
+				<p class="caption">Printed card design</p>
 			</div>
 			<div class="results__container">
 				<img class="result" src="images/popup/popup_result_2@2x.jpg" width="100%">
-				<p class="caption">Logo design</p>
+				<p class="caption">Banner designs</p>
 			</div>
 			<div class="results__container">
 				<iframe class="vid" width="100%" height="640" src="https://www.youtube.com/embed/w0RBVmwHGRc" frameborder="0" allowfullscreen></iframe>		

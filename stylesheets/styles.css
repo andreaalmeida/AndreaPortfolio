@@ -95,6 +95,11 @@ p.p_gray, p.p_white {
   color: #444444;
   margin-top: 10px;
   margin-bottom: 26px; }
+  @media only screen and (max-width: 629px) {
+    p.p_gray, p.p_white {
+      padding-left: 25px;
+      padding-right: 25px;
+      padding-bottom: 0px; } }
 
 p.p_white {
   color: white; }
@@ -357,6 +362,18 @@ footer {
     text-decoration: none; }
     footer a:hover {
       text-decoration: underline; }
+  footer .content__p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 1.9em;
+    color: #f7f7f6;
+    text-decoration: none;
+    padding: 0px;
+    font-weight: 500;
+    font-size: 1.0em; }
+    @media only screen and (max-width: 629px) {
+      footer .content__p {
+        text-align: center; } }
 
 .footer__wrapper {
   width: 960px;
@@ -419,9 +436,8 @@ footer {
   float: left; }
 
 .blocks--contact {
-  /*	//border: 1px solid red;
-  */
-  margin-top: 223px; }
+  /*	margin-top: 223px;
+  */ }
 
 .blocks--index, .blocks--about {
   width: 100%;
@@ -494,13 +510,7 @@ footer {
       height: 409px;
       width: 960px;
       display: inline-block;
-      border: 1px solid #e5e5e4;
-      /*&__title{
-      	text-align: center;
-      	margin-top:7px;
-      	font-size: 1.0em;
-      	font-weight: $font-weight-bold;
-      }*/ }
+      border: 1px solid #e5e5e4; }
       @media only screen and (min-width: 630px) and (max-width: 959px) {
         .blocks__row__large {
           width: 630px;
@@ -508,8 +518,7 @@ footer {
       @media only screen and (max-width: 629px) {
         .blocks__row__large {
           height: 137px;
-          width: 320px;
-          margin-top: 40px; } }
+          width: 320px; } }
     .blocks__row__large2 {
       height: 527px;
       width: 960px;
@@ -529,7 +538,7 @@ footer {
         .blocks__row__large2 {
           height: 176px;
           width: 320px;
-          margin-top: 40px; } }
+          margin-top: -20px; } }
 
 .process {
   background-color: #f7f7f6; }

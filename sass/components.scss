@@ -346,6 +346,22 @@ footer{
 		}
 	}
 
+	.content__p{
+		margin-top: 0px;
+		margin-bottom: 0px;
+		line-height: 1.9em;
+		color: $color-background;
+		text-decoration: none;
+		padding: 0px;
+		font-weight: 500;
+		font-size: 1.0em;
+
+		@include bp(small){
+			text-align: center;
+		}
+		
+	}
+
 
 
 }

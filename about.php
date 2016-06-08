@@ -36,8 +36,8 @@ $current = 'about';
 		</div>
 		<div class="description">
 			<div class="description__container">
-				<div class="description__container__titile">
-					<h2 class="categories">Background<h2>`
+				<div class="description__container__title">
+					<h2 class="categories">Background<h2>
 				</div>
 				<h3>What I do</h3>
 				<p>I improve people’s lives through design.</p>

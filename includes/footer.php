@@ -21,6 +21,7 @@ if ( $thisYear > $startYear ) {
 		</ul>
 		<ul class="footer__column">
 			<li class="title">Contact</li>
+			<li class="content"><p class="content__p">Andrea Pereira de Almeida</p></li>
 			<li class="content"><a href="mailto:andreaalmeida@me.com?Subject=Hello%20Andrea">andreaalmeida@me.com</a></li>
 			
 		</ul>

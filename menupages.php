@@ -51,7 +51,7 @@
 		</div>
 		<div class="description">
 			<div class="description__container">
-				<div class="description__container__titile">
+				<div class="description__container__title">
 					<h2 class="categories">Process<h2>
 				</div>
 				<h3>My role</h3>
