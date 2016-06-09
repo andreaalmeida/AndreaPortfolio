@@ -221,7 +221,7 @@
 .description{
 	background-color: white;
 	padding-top:0px;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
 	margin-top: 0px;
 	border: 1px solid white;	
 
@@ -259,7 +259,6 @@
 
 		&--contact{
 			@extend .description__container;
-			//border:1px solid red;
 			margin-top:60px;
 		}
 	}
@@ -267,6 +266,10 @@
 
 	.results__container{
 	@extend .description__container;
+	@include bp(small){
+			margin-bottom: 30px;
+		}
+	
 
 	&--button{
 		text-align: center;
@@ -377,7 +380,7 @@ footer{
 	@include bp(small){
 		width: 320px;
 		padding-top: 50px;
-		padding-bottom: 100px;
+		padding-bottom: 0px;
 	}
 }
 

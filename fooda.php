@@ -48,7 +48,7 @@
 				</div>
 				<h3>My role</h3>
 				<p>Design Lead</p>
-				<h2>About this project</h2>
+				<h3>About this project</h3>
 				<p>Fooda wanted a new marketing website to introduce itself and explain the value of its 
 					lunch program to users.
 				</p>
