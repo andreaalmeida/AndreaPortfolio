@@ -164,6 +164,8 @@
   	padding-bottom: 65px;
 }
 
+
+
 .pageTitle--about {
  	width: 100%;
   	background: url("https://farm2.staticflickr.com/1577/26077447724_90904a90d2_b.jpg") no-repeat center center ;	
@@ -177,9 +179,20 @@
   	padding-bottom: 65px;
 }
 
-/*.pageTitle--contact {
-	@extend .pageTitle;
-}*/
+.pageTitle--bitovi {
+ 	width: 100%;
+  	background: url("  	https://c4.staticflickr.com/8/7688/27721453115_2167c69a09_o.jpg") no-repeat center center ;
+  	position: fixed;
+  	z-index: -1 !important;
+  	background-size: cover;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	padding-top: 55px;
+  	padding-bottom: 65px;
+}
+
+
 
 .pageTitle--contact {
 	width: 100%;
@@ -291,6 +304,13 @@
 		@extend .description__container;
 
 	}
+}
+
+.results--bitovi{
+	@extend .results;
+	background-color: white;
+	margin-top:223px;
+	padding-top: 55px;
 }
 
 //--------------- RESULTS --------------//
@@ -459,11 +479,5 @@ footer{
 .back{
 	@extend .next;
 	float: left;
-
 }
-
-
-//--------------- PRE-FOOTER --------------//
-
-
 

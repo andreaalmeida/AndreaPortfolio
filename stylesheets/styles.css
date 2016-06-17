@@ -87,6 +87,15 @@ p {
   margin-top: 5px;
   font-weight: 300; }
 
+p.paragraph {
+  line-height: 1.7em;
+  text-align: left;
+  font-size: 1.1em;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-top: 5px;
+  font-weight: 300; }
+
 p.p_gray, p.p_white {
   line-height: 1.7em;
   text-align: center;
@@ -262,9 +271,18 @@ p.p_white {
   padding-top: 55px;
   padding-bottom: 65px; }
 
-/*.pageTitle--contact {
-	@extend .pageTitle;
-}*/
+.pageTitle--bitovi {
+  width: 100%;
+  background: url("  	https://c4.staticflickr.com/8/7688/27721453115_2167c69a09_o.jpg") no-repeat center center;
+  position: fixed;
+  z-index: -1 !important;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  padding-top: 55px;
+  padding-bottom: 65px; }
+
 .pageTitle--contact {
   width: 100%;
   background: url("https://farm2.staticflickr.com/1621/26089954993_75790e81b4_b.jpg") no-repeat center center;
@@ -325,8 +343,13 @@ p.p_white {
   text-align: center;
   margin-bottom: 30px; }
 
-.results {
+.results, .results--bitovi {
   background-color: #f7f7f6; }
+
+.results--bitovi {
+  background-color: white;
+  margin-top: 223px;
+  padding-top: 55px; }
 
 footer {
   margin-top: 0px;

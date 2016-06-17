@@ -83,6 +83,17 @@ p{
 	font-weight: $font-weight-regular;
 }
 
+p.paragraph{
+	line-height: 1.7em;
+	text-align: left;
+	font-size: 1.1em;
+	padding-bottom: 0px;
+	padding-top:0px;
+	margin-top:5px;
+	font-weight: $font-weight-regular;
+
+}
+
 p.p_gray{
 	line-height: 1.7em;
 	text-align: center;
