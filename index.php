@@ -142,7 +142,7 @@ $current = 'portfolio';
 					<div class="preFooter__container">
 						<h4>About this site</h4>
 						<p>I designed this site in Illustrator and built it in Sublime Text with HTML, SASS, and PHP.  
-							See my code on <a class="mail" href="https://github.com/andreaalmeida/Portfolio" target="_blank">Github</a>.</p>
+							See my code on <a class="mail" href="https://github.com/andreaalmeida/AndreaPortfolio" target="_blank">Github</a>.</p>
 						</p>
 					</div>		
 				</div>
